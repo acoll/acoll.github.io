@@ -19,8 +19,8 @@ Experience
 * Full stack development on a jQuery, Java, Struts webapp that communicated with other systems via ActiveMQ.
 * Development and architecture experience on a C# Data Access Layer reusable module.
 
-**[C&S](http://www.cswg.com/)**
-* Full stack development on a couple SenchaJS / PHP internal resource management applications.
+**[C&S Wholesale Grocers](http://www.cswg.com/)**
+* Full stack development on SenchaJS, PHP, MySQL internal resource management applications.
 * DevOps / Infrastructure experience with physical to virtual migrations and internal application management.
 
 Other Interests for the future
