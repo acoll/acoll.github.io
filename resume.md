@@ -2,9 +2,9 @@ Adam Coll
 =========
 
 ------------------------
-adamcoll.ac@gmail.com | 
-https://github.com/acoll |
-[Jaffrey, NH](https://www.google.com/maps/place/Jaffrey,+NH+03452/@42.8292397,-72.1295109,12z/data=!3m1!4b1!4m5!3m4!1s0x89e17b4fcd930bf5:0xe23d02d3dd8fa619!8m2!3d42.8139651!4d-72.0231238)
+Email me at adamcoll.ac@gmail.com
+
+https://github.com/acoll 
 ------------------------
 
 Experience
