@@ -1,11 +1,8 @@
-Adam Coll
+Adam Coll - https://github.com/acoll 
 =========
 
-------------------------
-Email me at adamcoll.ac@gmail.com
+adamcoll.ac@gmail.com
 
-https://github.com/acoll 
-------------------------
 
 Experience
 ----------
