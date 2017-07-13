@@ -33,5 +33,5 @@ Other Interests
 Education
 ---------
 
-Keene State College
+[Keene State College](https://www.keene.edu)
 :   **BS, Computer Science**
