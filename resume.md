@@ -22,6 +22,7 @@ Experience
 
 Other Interests
 ------------------------------
+* Building native feeling web apps using PWA features.
 * [Custom Elements](https://developers.google.com/web/fundamentals/getting-started/primers/customelements) and [Preact](https://github.com/developit/preact)
 * [GraphQL](http://graphql.org/) and [serverless architecture](https://github.com/awslabs/aws-serverless-express).
 * [Firebase](https://www.firebase.com/) for small applications
