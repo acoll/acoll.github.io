@@ -8,7 +8,7 @@ Experience
 ----------
 
 **[Mitrend](https://mitrend.com/) 2013 - Current**
-* Full stack development on a Backbone, Jade, Sass, Nodejs, Express webapp with a future direction of React/Preact and graphql.
+* Full stack development on a Backbone, Jade, Sass, React, Styled Components, Nodejs, Express, MySQL webapp.
 * Java development for data processing.
 * DevOps / Infrastructure experience with AWS resources.
 
