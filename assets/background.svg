@@ -11,7 +11,7 @@
 
 		path {
 			transform-origin: center center;
-			animation: move 300s linear infinite;
+			animation: move 500s linear infinite;
 		}
 	</style>
 	<path d="M870,431L1030,173L836,262Z" fill="#75a8cf" stroke="#75a8cf" stroke-width="1.51" />
