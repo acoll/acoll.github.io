@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 53.8">
+  <g fill-rule="evenodd">
+    <path fill='SNOW' d="M20 0h4v40h-4z"/>
+    <path fill='SNOW' d="M3.6 18.2l21.2 21.2-2.8 2.8L.8 21z"/>
+    <path fill='SNOW' d="M40.4 18.2l2.8 2.8L22 42.2l-2.8-2.8z"/>
+  </g>
+  <text y="58" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-size="5" font-weight="bold" fill="rgba(0,0,0,0)">
+    Created by Liau Jian Jie
+  </text>
+  <text y="63" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-size="5" font-weight="bold" fill="rgba(0,0,0,0)">
+    from the Noun Project
+  </text>
+</svg>
