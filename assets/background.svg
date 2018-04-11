@@ -1,19 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900">
-	<style>
-		@keyframes move {
-			from {
-				transform: rotate(0deg);
-			}
-			to {
-				transform: rotate(360deg);
-			}
-		}
-
-		path {
-			transform-origin: center center;
-			animation: move 500s linear infinite;
-		}
-	</style>
+	
 	<path d="M870,431L1030,173L836,262Z" fill="#75a8cf" stroke="#75a8cf" stroke-width="1.51" />
 	<path d="M870,431L1096,462L1030,173Z" fill="#64a1ca" stroke="#64a1ca" stroke-width="1.51" />
 	<path d="M1096,462L1209,428L1030,173Z" fill="#5e9ec0" stroke="#5e9ec0" stroke-width="1.51" />
