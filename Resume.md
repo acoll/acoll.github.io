@@ -9,6 +9,8 @@ Experience
 
 **[Mitrend](https://mitrend.com/) 2013 - Current**
 * Full stack development on a mid-sized webapp written in Typescript and NodeJS using React, Styled Components and ExpressJS.
+    - As a technical lead I pushed to modernize the web application stack from jQuery and BackboneJS to React and Typescript with a NodeJS backend. Using a more modular and component driven technology paved the way for the web team to work closely with the UX team and establish a standardized set of on-brand reusable components.
+    - Following NIST security standards I led the implementation of our authentication and authorization system for our web stack. We support username/password with multi-factor authentication and OpenID SSO integrations.
 * Java development for data processing.
 * DevOps / Infrastructure experience with AWS resources.
 
